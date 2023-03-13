@@ -29,7 +29,7 @@ section {
   display: flex;
   flex-direction: row;
   border-radius: 20px;
-  width: 600px;
+  max-width: 600px;
 }
 
 img {
